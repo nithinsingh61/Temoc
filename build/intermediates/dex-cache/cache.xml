@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cc7b70449efe0c3fb1f53552a9df6258b02e838">
+        <dex dex="/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_88b0e71d7ec0797d28b09b6c33fb36f2c5430997/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_24f019f0c3b938603067a89682dbc9c886b73c93/classes.dex" />
+    </item>
+
+</items>

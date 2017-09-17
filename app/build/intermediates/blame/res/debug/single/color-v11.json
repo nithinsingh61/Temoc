@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

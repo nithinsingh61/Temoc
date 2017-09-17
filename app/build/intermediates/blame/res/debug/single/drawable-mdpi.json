@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/drawable-mdpi/lex_speak.png",
+        "source": "/home/nithin/.android/build-cache/4faab8e35671b446dd2fed14a8a2e486e97e104b/output/res/drawable-mdpi/lex_speak.png"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/drawable-mdpi/mic.png",
+        "source": "/home/nithin/.android/build-cache/4faab8e35671b446dd2fed14a8a2e486e97e104b/output/res/drawable-mdpi/mic.png"
+    }
+]

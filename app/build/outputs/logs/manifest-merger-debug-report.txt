@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:4:1-35:12
+	package
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:5:5-24
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:4:11-69
+	android:versionCode
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.0] /home/nithin/.android/build-cache/4faab8e35671b446dd2fed14a8a2e486e97e104b/output/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.0] /home/nithin/.android/build-cache/4faab8e35671b446dd2fed14a8a2e486e97e104b/output/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:10:5-71
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.0] /home/nithin/.android/build-cache/4faab8e35671b446dd2fed14a8a2e486e97e104b/output/AndroidManifest.xml:4:5-70
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:13:5-34:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/nithin/.android/build-cache/124b4635cd23bc96685ed6f3200df462706b2b57/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/nithin/.android/build-cache/238b8702189b77bba199681d573e46d2de71c07d/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/nithin/.android/build-cache/9b5c7b0712b058c06aa4226c04db5b1915f29669/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/nithin/.android/build-cache/44217abd0b4e42dfd247c03b896f752d91b84893/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/nithin/.android/build-cache/00b97e5013c485e53fb6deed6399abe1925f4cea/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/nithin/.android/build-cache/ea258cae6c0cf3dd6887f9eeeb33a7f778d05d5c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/nithin/.android/build-cache/94cb10cbc649a23ba4ee5c91b911f4a789cf17fc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/nithin/.android/build-cache/a74acbf7b0f30177a63db773c73a3b84e82133d9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.0] /home/nithin/.android/build-cache/a1b611351f4f23c8e3304f3254357ce65eae1cc2/output/AndroidManifest.xml:4:6-47
+	android:label
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:18:9-45
+activity#com.Temoc.SplashActivity
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:23:13-83
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:21:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.Temoc.MainActivity
+ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:29:9-33:20
+	android:label
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:32:13-56
+	android:launchMode
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:30:13-50
+uses-sdk
+INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/nithin/.android/build-cache/124b4635cd23bc96685ed6f3200df462706b2b57/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/nithin/.android/build-cache/238b8702189b77bba199681d573e46d2de71c07d/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /home/nithin/.android/build-cache/9b5c7b0712b058c06aa4226c04db5b1915f29669/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /home/nithin/.android/build-cache/44217abd0b4e42dfd247c03b896f752d91b84893/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/nithin/.android/build-cache/00b97e5013c485e53fb6deed6399abe1925f4cea/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/nithin/.android/build-cache/ea258cae6c0cf3dd6887f9eeeb33a7f778d05d5c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/nithin/.android/build-cache/94cb10cbc649a23ba4ee5c91b911f4a789cf17fc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/nithin/.android/build-cache/a74acbf7b0f30177a63db773c73a3b84e82133d9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.amazonaws:aws-android-sdk-lex:2.6.0] /home/nithin/.android/build-cache/4faab8e35671b446dd2fed14a8a2e486e97e104b/output/AndroidManifest.xml:8:5-73
+MERGED from [com.android.support:multidex:1.0.0] /home/nithin/.android/build-cache/2abb7d2171cf0e8d81728c74894c4868ddedad5b/output/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:4:1-35:12 reason: com.amazonaws.mobile.auth.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/AndroidManifest.xml:4:1-35:12 reason: com.amazonaws.mobile.auth.core requested WRITE_EXTERNAL_STORAGE

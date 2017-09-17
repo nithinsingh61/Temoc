@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/nav_drawer_item.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/nav_drawer_item.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/conversational_bot_response_message_layout.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/conversational_bot_response_message_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/list_item_icon_text_with_subtitle.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/list_item_icon_text_with_subtitle.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/fragment_conversational_bots_demo.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/fragment_conversational_bots_demo.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/fragment_demo_instruction.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/fragment_demo_instruction.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/fragment_conversational_bot_voice.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/fragment_conversational_bot_voice.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/list_item_demo_button_icon_text.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/list_item_demo_button_icon_text.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/fragment_demo_home.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/fragment_demo_home.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/fragment_demo_app_analytics.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/fragment_demo_app_analytics.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/fragment_demo_identity.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/fragment_demo_identity.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/voice_component.xml",
+        "source": "/home/nithin/.android/build-cache/4faab8e35671b446dd2fed14a8a2e486e97e104b/output/res/layout/voice_component.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/fragment_conversational_bot_text.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/fragment_conversational_bot_text.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/conversational_bot_sample_utterance_layout.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/conversational_bot_sample_utterance_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/conversational_bot_user_message_layout.xml",
+        "source": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/src/main/res/layout/conversational_bot_user_message_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/nithin/.android/build-cache/7a4d4af36081a750e87c730addc3a56e6f02f8d7/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    }
+]

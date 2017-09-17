@@ -1,0 +1,4 @@
+#Sun Sep 17 06:39:04 CDT 2017
+base.0=/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/nithin/Desktop/hack_app/Temoc-aws-my-sample-app-android/Temoc/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
